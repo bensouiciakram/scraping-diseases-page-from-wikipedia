@@ -29,13 +29,16 @@ To run this project locally, follow these steps:
 ```bash
 pip install scrapy
 ```
-Usage
+## Usage
 Once you have installed the necessary dependencies, you can start scraping disease information from the Wikipedia page. Follow these steps:
 
 Navigate to the project's root directory using the terminal or command prompt.
 Execute the Scrapy spider by running the following command:
 
+```bash
 scrapy crawl diseases -o diseases.json
+```
+
 
 Scrapy will start fetching data from the Wikipedia page and store it in a file named "diseases.json" in the project directory.
 Features
