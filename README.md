@@ -42,7 +42,6 @@ scrapy crawl diseases -o diseases.json
 Scrapy will start fetching data from the Wikipedia page and store it in a file named "diseases.json" in the project directory.
 ## Features
 - Efficient Web Scraping: Scrapy is a fast and efficient web scraping framework, ensuring quick data extraction from Wikipedia.
-- Customizable: The Scrapy spider can be easily customized to target different Wikipedia pages or extract specific information about diseases.
 - JSON Output: The scraped data is stored in a JSON file for easy access and further processing.
 - Open-Source: This project is open-source, and contributions from the community are welcome!
 
