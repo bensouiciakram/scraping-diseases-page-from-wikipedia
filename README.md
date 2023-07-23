@@ -32,8 +32,8 @@ pip install scrapy
 ## Usage
 Once you have installed the necessary dependencies, you can start scraping disease information from the Wikipedia page. Follow these steps:
 
-Navigate to the project's root directory using the terminal or command prompt.
-Execute the Scrapy spider by running the following command:
+1. Navigate to the project's root directory using the terminal or command prompt.
+2. Execute the Scrapy spider by running the following command:
 
 ```bash
 scrapy crawl diseases -o diseases.json
@@ -41,19 +41,11 @@ scrapy crawl diseases -o diseases.json
 
 
 Scrapy will start fetching data from the Wikipedia page and store it in a file named "diseases.json" in the project directory.
-Features
-Efficient Web Scraping: Scrapy is a fast and efficient web scraping framework, ensuring quick data extraction from Wikipedia.
-Customizable: The Scrapy spider can be easily customized to target different Wikipedia pages or extract specific information about diseases.
-JSON Output: The scraped data is stored in a JSON file for easy access and further processing.
-Open-Source: This project is open-source, and contributions from the community are welcome!
-Contributing
-Contributions to this project are highly appreciated. If you find any issues or have ideas to enhance the scraping process, please open an issue or submit a pull request. To contribute, follow these steps:
+## Features
+- Efficient Web Scraping: Scrapy is a fast and efficient web scraping framework, ensuring quick data extraction from Wikipedia.
+- Customizable: The Scrapy spider can be easily customized to target different Wikipedia pages or extract specific information about diseases.
+- JSON Output: The scraped data is stored in a JSON file for easy access and further processing.
+- Open-Source: This project is open-source, and contributions from the community are welcome!
 
-Fork the repository on GitHub.
-Create a new branch with a descriptive name for your feature or bug fix.
-Implement your changes and test thoroughly.
-Create a pull request, explaining your changes and their benefits.
-License
-This project is licensed under the MIT License, allowing you to use, modify, and distribute the code freely.
 
 
