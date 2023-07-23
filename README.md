@@ -28,7 +28,7 @@ To run this project locally, follow these steps:
 
 ```bash
 pip install scrapy
-
+```
 Usage
 Once you have installed the necessary dependencies, you can start scraping disease information from the Wikipedia page. Follow these steps:
 
