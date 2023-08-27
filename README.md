@@ -3,6 +3,12 @@
 
 This project aims to scrape information about diseases from the Wikipedia page: [List of Epidemics](https://en.wikipedia.org/wiki/List_of_epidemics). We utilize the powerful **Scrapy framework** to extract relevant data from the web page efficiently. The gathered data can be utilized for various purposes, such as research, analysis, or educational resources.
 
+### type : 
+freelancing project 
+
+### client : 
+andorthas
+
 ## Table of Contents
 
 - [Introduction](#introduction)
